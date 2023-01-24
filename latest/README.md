@@ -1,4 +1,4 @@
-# SPy
+# spy-utilities
 
 Docker image for [spy-utilities](https://github.com/wairas/spy-utilities). 
 
