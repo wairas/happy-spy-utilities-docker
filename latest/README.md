@@ -1,6 +1,8 @@
 # spy-utilities
 
-Docker image for [spy-utilities](https://github.com/wairas/spy-utilities). 
+Docker images for the [spy-utilities](https://github.com/wairas/spy-utilities)
+Python library. Uses the [happy-spy-docker](https://github.com/wairas/happy-spy-docker) 
+docker images as basis. 
 
 
 ## Docker
